@@ -1,0 +1,372 @@
+{
+  "categories": [
+    {
+      "name": "Fun Parties",
+      "description": "Lively gatherings with music, dancing, and entertainment for a great time. Perfect for letting loose with friends.",
+      "events": [
+        {
+          "img": "https://media.gettyimages.com/id/941932280/photo/families-and-friends-in-a-ski-resort.jpg?s=612x612&w=0&k=20&c=n0XWLaRajl09PCzDgsZ_kZE-DhBjofOi2NSqBFQozYg=",
+          "title": "Hot Chocolate & Karaoke Night",
+          "tags": {
+            "date": "December 21",
+            "time": "7:30 PM",
+            "location": "Cabin Dining Hall"
+          }
+        },
+        {
+          "img": "https://t3.ftcdn.net/jpg/08/46/55/68/240_F_846556853_uMOSLv002LTDC1kOed566oGVMwX5bngC.jpg",
+          "title": "Après-Ski Glow Party",
+          "tags": {
+            "date": "December 20",
+            "time": "8:00 PM",
+            "location": "Cabin Fireplace Lounge"
+          }
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGja4hsiuFjspqcDg3b66Nc5mx9yK9nLRJ7k1crotbW4LpY8hgo6BQBVwCXa9rhw4OrjA&usqp=CAU",
+          "title": "Polar Plunge & Fire Party",
+          "tags": {
+            "date": "December 22",
+            "time": "11:30 PM",
+            "location": "Cabin Frozen Lake + Hot Tub Deck"
+          }
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8yQgTdbb-LVyYJ_P49SU79NvShyd3CiKRPXuLUdTXsIkQXqTasb0b44C8QKfoRjcqYuM&usqp=CAU",
+          "title": "Fondue & Board Games Bash",
+          "tags": {
+            "date": "December 23",
+            "time": "6:00 PM",
+            "location": "Cabin Cozy Corner"
+          }
+        },
+        {
+          "img": "https://t3.ftcdn.net/jpg/15/63/02/24/240_F_1563022437_mAcOqRRYhU3vlsOntS0DcrmDO2KnvIbn.jpg",
+          "title": "Midnight S’mores Bonfire",
+          "tags": {
+            "date": "December 24",
+            "time": "11:00 PM",
+            "location": "Cabin Fire Pit"
+          }
+        }
+      ],
+      "id": "7b08"
+    },
+    {
+      "name": "Sporting Events",
+      "description": "Exciting competitions featuring top athletes and teams. A thrill for sports lovers of all kinds.",
+      "events": [
+        {
+          "img": "https://t3.ftcdn.net/jpg/01/91/88/02/240_F_191880231_ZAXVXhWEDG54WK51MWSznLbY4cUjEZXe.jpg",
+          "title": "Snowshoeing Tour",
+          "tags": {
+            "date": "December 20",
+            "time": "10:00 AM",
+            "location": "Forest Trail, Cabin Area"
+          }
+        },
+        {
+          "img": "https://t4.ftcdn.net/jpg/02/32/04/67/240_F_232046771_spfFnUNEzpThXZFccvLRXAijgG85tgxb.jpg",
+          "title": "Snow Tubing Challenge",
+          "tags": {
+            "date": "December 21",
+            "time": "2:00 PM",
+            "location": "Hill Slope, Cabin Backyard"
+          }
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRucUXLL4nDySnltBrw4pfsK-qKWN0UpbxvZA&s",
+          "title": "Fat Biking Race",
+          "tags": {
+            "date": "December 22",
+            "time": "11:00 AM",
+            "location": "Snow Path, Cabin Entrance"
+          }
+        },
+        {
+          "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxAIaB7MDnMLkfeFpqgNBql1K6y2jscWsE0d77TkRjThS2P6zA-gKtj96-167dLiGfLAQ&usqp=CAU",
+          "title": "Ice Skating Competition",
+          "tags": {
+            "date": "December 23",
+            "time": "6:00 PM",
+            "location": "Frozen Lake, Cabin Lakefront"
+          }
+        },
+        {
+          "img": "https://t3.ftcdn.net/jpg/04/85/72/62/240_F_485726211_AS8O5ZItw0HnJa01IOhd7daS7nirtIR5.jpg",
+          "title": "Dog Sledding Adventure",
+          "tags": {
+            "date": "December 24",
+            "time": "9:00 AM",
+            "location": "Meadow Trail, Cabin Grounds"
+          }
+        }
+      ],
+      "id": "dcfa"
+    },
+    {
+      "name": "Family Programs",
+      "description": "Engaging events suitable for all ages. Great for making memories together with your loved ones.",
+      "events": [
+        {
+          "img": "https://img.freepik.com/free-photo/close-up-person-skiing_23-2151850208.jpg?semt=ais_hybrid&w=740&q=80",
+          "title": "Puppet Theater",
+          "tags": {
+            "date": "November 3",
+            "time": "10:00 AM",
+            "location": "Community Center"
+          }
+        },
+        {
+          "img": "https://img.freepik.com/free-photo/close-up-person-skiing_23-2151850208.jpg?semt=ais_hybrid&w=740&q=80",
+          "title": "Outdoor Movie Night",
+          "tags": {
+            "date": "November 9",
+            "time": "6:30 PM",
+            "location": "Central Park"
+          }
+        },
+        {
+          "img": "https://img.freepik.com/free-photo/close-up-person-skiing_23-2151850208.jpg?semt=ais_hybrid&w=740&q=80",
+          "title": "Science Fair",
+          "tags": {
+            "date": "November 14",
+            "time": "9:00 AM",
+            "location": "City Museum"
+          }
+        },
+        {
+          "img": "https://img.freepik.com/free-photo/close-up-person-skiing_23-2151850208.jpg?semt=ais_hybrid&w=740&q=80",
+          "title": "Storytime Hour",
+          "tags": {
+            "date": "November 20",
+            "time": "11:00 AM",
+            "location": "Library Hall"
+          }
+        },
+        {
+          "img": "https://img.freepik.com/free-photo/close-up-person-skiing_23-2151850208.jpg?semt=ais_hybrid&w=740&q=80",
+          "title": "Crafts & Creations",
+          "tags": {
+            "date": "November 27",
+            "time": "3:00 PM",
+            "location": "Arts Center"
+          }
+        }
+      ],
+      "id": "b572"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Experience 86",
+      "brand": "Salomon",
+      "type": "Ski",
+      "size": "170cm",
+      "color": "Black",
+      "price": 50,
+      "image": "https://www.sport-bittl.com/images/product_images/original_images/70461293025A_Rossignol_Experience_86_Basalt_24_25_Ski_inkl_Bindung.jpg?width=600"
+    },
+    {
+      "id": "2",
+      "name": "Enforcer 99",
+      "brand": "Nordica",
+      "type": "Ski",
+      "size": "172cm",
+      "color": "Red",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEFBLCIQW_RDnQqrS_BQ8tNARSHvTAgOzTg&s"
+    },
+    {
+      "id": "3",
+      "name": "Redster X9S",
+      "brand": "Atomic",
+      "type": "Ski",
+      "size": "168cm",
+      "color": "Green",
+      "price": 65,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGhStnVP-k4ZLcesV3pbjF1-XfQv-eJZ4oIg&s"
+    },
+    {
+      "id": "4",
+      "name": "Blackops 98",
+      "brand": "Rossignol",
+      "type": "Ski",
+      "size": "175cm",
+      "color": "Yellow",
+      "price": 60,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgztiTEYj8e_9SmeWjccMiFSsubiqWZzaiuQ&s"
+    },
+    {
+      "id": "5",
+      "name": "Mindbender 99Ti",
+      "brand": "K2",
+      "type": "Ski",
+      "size": "71cm",
+      "color": "Red",
+      "price": 700,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRURHWJ2vPknXPLHmHYfDeM3d38cThAY8XwN2aR8kFftZAhF84MgE_wVG7BWxmYwPwCyqA&usqp=CAU"
+    },
+    {
+      "id": "6",
+      "name": "Hawk Ultra XTD",
+      "brand": "Atomic",
+      "type": "Ski Boot",
+      "size": "27.5",
+      "color": "Black",
+      "price": 45,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShI2HQFIor4x8U7wMZmqhNqc2gCiIAfFC0OinH0sdHd0oy6k2xsuSAgva1ksabNQXq0PA&usqp=CAU"
+    },
+    {
+      "id": "7",
+      "name": "Powder Town Insulated",
+      "brand": "Patagonia",
+      "type": "Jacket",
+      "size": "M",
+      "color": "Blue",
+      "price": 49,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeg1UC05bNFx8ALOieSbXpIdLQrv6o4_Ivwf9EQEf4EkU50rfU9HqJD_gsBaYFxXd9Tw&usqp=CAU"
+    },
+    {
+      "id": "8",
+      "name": "Khroma Kinetic",
+      "brand": "Rab",
+      "type": "Jacket",
+      "size": "L",
+      "color": "Green",
+      "price": 40,
+      "image": "https://www.christysports.com/dw/image/v2/BGBB_PRD/on/demandware.static/-/Sites-master-winter/default/dwfb41a301/8113234_033_4.jpg?sw=800&sh=800"
+    },
+    {
+      "id": "9",
+      "name": "Barryvox S2",
+      "brand": "Mammut",
+      "type": "Avalanche Transceiver",
+      "size": "One Size",
+      "color": "Orange",
+      "price": 135,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2y5Ft4JU7vk5Z9NsaTjiQddFWlutAOet73q0Om4y7rJj32OU9WjV1oCxyh2uy_Bgq6oA&usqp=CAU"
+    },
+    {
+      "id": "10",
+      "name": "Protego Pro Shell",
+      "brand": "Nivis",
+      "type": "Jacket",
+      "size": "S",
+      "color": "Orange",
+      "price": 69,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJv3879uU0SCrx0VI5tWrG1xWEM3Z87Fofofa7jNyd2-LhkHydV-UTBvcbdDpB-CZVJO4&usqp=CAU"
+    },
+    {
+      "id": "11",
+      "name": "Strive 14 GW",
+      "brand": "Salomon",
+      "type": "Binding",
+      "size": "90mm brake",
+      "color": "Black",
+      "price": 28,
+      "image": "https://m.media-amazon.com/images/I/61VYvffgROL._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Shift MNC 13",
+      "brand": "Atomic",
+      "type": "Binding",
+      "size": "100mm brake",
+      "color": "Blue",
+      "price": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVMWUPynOtChbJ1pM4gLOeWg0nNfQ7OkAuw&s"
+    },
+    {
+      "id": "13",
+      "name": "Zero G Tour Pro",
+      "brand": "Tecnica",
+      "type": "Ski Boot",
+      "size": "26.5",
+      "color": "Orange",
+      "price": 50,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShBbsquCUq0hdJ9U8J4xnCzqqo8vEvmgJxp2d2pDxURVlasTkuv4UNC7oyqR8M6MkEeKg&usqp=CAU"
+    },
+    {
+      "id": "14",
+      "name": "Quest 4D Forces 2 GTX",
+      "brand": "Salomon",
+      "type": "Ski Boot",
+      "size": "28.0",
+      "color": "Green",
+      "price": 32,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdcqcCafIcR5rBuQ043hbkbnTAvAl-LvMIsD0IDNPNba5YDJmTNjRlTfSPKCWN-ODknBA&usqp=CAU"
+    },
+    {
+      "id": "15",
+      "name": "Recon Stretch",
+      "brand": "Arc'teryx",
+      "type": "Pants",
+      "size": "M",
+      "color": "Black",
+      "price": 45,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5UUHmWbSgo6ngxVbZg4cUqHV7by6azb16tykmyL34uR-h7z8a70NfSQoIckyfHY1hgxE&usqp=CAU"
+    }
+  ],
+  "cart": {
+    "items": [],
+    "totalPrice": 0
+  },
+  "accommodations": [
+    {
+      "id": "1",
+      "name": "Mountain View Cabin",
+      "location": "Aspen, Colorado",
+      "price": 90,
+      "description": {
+        "author": "Fizic Person",
+        "rooms": 3,
+        "area": "120 m²",
+        "parking": "Available"
+      },
+      "contacts": "0712312312",
+      "image": [
+        "https://cf.bstatic.com/xdata/images/hotel/square600/696030941.jpg?k=9c7ad70ce09b4f25e81ac0888d75d15200423678bf809137d715253f03acaf1e&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max500/696030856.jpg?k=48cda236992ef9f118d2542ba0f46211d2110bce804b00a5bd655e6f9cb02353&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max300/696030895.jpg?k=f5291338074776683622c0f68f300c85c5f6b1703d1f111395a45ea871b5a8f7&o="
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Lakeside Lodge",
+      "location": "Lake Tahoe, California",
+      "price": 120,
+      "description": {
+        "author": "Fizic Person",
+        "rooms": 4,
+        "area": "150 m²",
+        "parking": "Available"
+      },
+      "contacts": "0712312312",
+      "image": [
+        "https://cf.bstatic.com/xdata/images/hotel/max500/274688699.jpg?k=99dc9d47a94c6d918ef310e9f5fe1d2ed03482cd04ab4a25233a4e2f593f2409&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max300/344558377.jpg?k=511e8a3ed11ed9f94ce1887e5acd1f4dca0b6d33d9d75ad1600c7056ddabe2f3&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max300/274693582.jpg?k=79f07bf6e7584254b055add9d57dd67a70f038b0535e33db6dee60e0b2048662&o="
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Forest Retreat",
+      "location": "Smoky Mountains, Tennessee",
+      "price": 80,
+      "description": {
+        "author": "Fizic Person",
+        "rooms": 2,
+        "area": "100 m²",
+        "parking": "Not Available"
+      },
+      "contacts": "0712312312",
+      "image": [
+        "https://cf.bstatic.com/xdata/images/hotel/max300/684880158.jpg?k=87847ddd688410525cb409769735f0c72adcd683d5b5bc03df7b677307d936ff&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max500/736143666.jpg?k=995201cfc3210bfb990378101e77172b2400ad392cb8c9fe34e8d0b5020322ea&o=",
+        "https://cf.bstatic.com/xdata/images/hotel/max500/736143666.jpg?k=995201cfc3210bfb990378101e77172b2400ad392cb8c9fe34e8d0b5020322ea&o="
+      ]
+    }
+  ]
+}
